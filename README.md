@@ -8,5 +8,5 @@ A random image from the defined ones will be sent to the current hangout if you 
 
 So, the breakdown is:
 
-`|keyword0,keyword1,keyword2|[1](http://your.image.link/notporn.jpg) [2](http://your.image.link/notporn1.jpg) [3](http://your.image.link/definitelynotporn.jpg)|`
+`|keyword0, keyword1, keyword2|[1](http://your.image.link/notporn.jpg) [2](http://your.image.link/notporn1.jpg) [3](http://your.image.link/definitelynotporn.jpg)|`
 
