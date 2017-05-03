@@ -54,7 +54,7 @@
 |cat|[1](http://i.imgur.com/TEzE2.gif)|
 |dolan|[1](https://noot-noot.github.io/images/dolan.jpg)|
 |bwah,hankhill|[1](https://media.giphy.com/media/bLD0XZThJHPLW/giphy.gif)|
-|yes|[1](https://media.giphy.com/media/FjeGBljESVAzu/giphy.gif) [2](http://i.imgur.com/ofF5FkN.gif)|
+|yes|(https://media.giphy.com/media/FjeGBljESVAzu/giphy.gif)|
 |bitty|[1](https://noot-noot.github.io/images/bittyspace.gif)|
 |jimp|[1](https://media.giphy.com/media/ucoH5cenTCuM8/giphy.gif)|
 |disappointed|[1](https://media.giphy.com/media/3oAt21Fnr4i54uK8vK/giphy.gif)|
